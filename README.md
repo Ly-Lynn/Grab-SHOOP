@@ -24,6 +24,10 @@
 
 **SHOOP** is a smart shopping assistant developed as part of the Grab Vietnam Tech Bootcamp 2025. The application leverages AI technology to deliver an optimized shopping experience for users.
 
+### DEMO
+
+https://github.com/user-attachments/assets/e2d82411-23d8-444f-92bc-fa4910ddf8c4
+
 ## ✨ Key Features
 
 - 🛒 Find optimal shopping locations within customizable distances
